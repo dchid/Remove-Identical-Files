@@ -1,2 +1,2 @@
-# Remove-Identical-Files
+# Remove Identical Files
 A python script to remove identical files
